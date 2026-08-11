@@ -13,10 +13,12 @@ I'm **LinPr**, a passionate developer dedicated to building impactful software a
 ### Languages & Repositories
 [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LinPr&theme=github_dark)](https://github.com/LinPr)
 
-### Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LinPr&theme=github-dark&hide_border=true)
+### Visitors
+![Visitors](https://api.visitorbadge.io/api/visitors?path=LinPr&label=Visitors&countColor=%23263759)
 
 ---
+
+
 
 ## 🔭 Currently Working On
 - Full-stack web development projects
