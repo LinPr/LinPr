@@ -100,9 +100,6 @@
 
 ### See you in the shadows.
 
-<a href="https://github.com/LinPr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20all-E23B3B?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repositories" /></a>
-<a href="https://github.com/LinPr/LinPr/issues"><img src="https://img.shields.io/badge/Say%20hi-Open%20an%20issue-E23B3B?style=for-the-badge&logo=github&labelColor=0D1117" alt="Open an issue" /></a>
-
-<sub>Itachi Uchiha & Naruto © Masashi Kishimoto / Studio Pierrot · animated clips via <a href="https://tenor.com/search/itachi-gifs">Tenor</a>, used for personal fan purposes.</sub>
+<a href="https://github.com/LinPr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20all-E23B3B?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repositories" /></a> <a href="https://github.com/LinPr/LinPr/issues"><img src="https://img.shields.io/badge/Say%20hi-Open%20an%20issue-E23B3B?style=for-the-badge&logo=github&labelColor=0D1117" alt="Open an issue" /></a>
 
 </div>
