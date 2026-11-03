@@ -40,7 +40,11 @@
 
 </td>
 <td width="38%" valign="top">
-<img src="assets/itachi-profile.webp" width="100%" alt="Itachi Uchiha at night" />
+
+<p><img src="assets/itachi-profile.webp" width="100%" alt="Itachi Uchiha at night" /></p>
+
+<p><img src="assets/itachi-sharingan.webp" width="100%" alt="Itachi's Sharingan" /></p>
+
 </td>
 </tr>
 </table>
@@ -89,21 +93,6 @@
 <sub>Refreshed weekly by <a href="https://github.com/LinPr/LinPr/blob/main/.github/workflows/refresh-cards.yml">this workflow</a>.</sub>
 
 </div>
-
-<table>
-<tr>
-<td width="52%" valign="middle">
-
-<p><b>"Those who forgive themselves, and are able to accept their true nature — they are the strong ones."</b></p>
-
-<p><sub>— Itachi Uchiha</sub></p>
-
-</td>
-<td width="48%" valign="middle">
-<img src="assets/itachi-sharingan.webp" width="100%" alt="Itachi's Sharingan" />
-</td>
-</tr>
-</table>
 
 ---
 
