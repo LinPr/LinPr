@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/itachi-hero.webp" width="720" alt="Itachi Uchiha under the moon" />
+<img src="assets/itachi-hero.webp" width="760" alt="Itachi Uchiha under the moon" />
 
-<h1>Lin · LinPr <img src="assets/sharingan.svg" width="30" alt="Sharingan" /></h1>
+<h1>Lin · LinPr <img src="assets/sharingan.svg" width="28" alt="Sharingan" /></h1>
 
 <a href="https://github.com/LinPr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=E23B3B&center=true&vCenter=true&width=720&lines=Go+%E2%80%A2+Kubernetes+%E2%80%A2+Observability;Building+terminal-native+tools+for+the+cloud;Silent+code.+Sharp+mind.+Red+eyes.;%E5%86%99%E8%BC%AA%E7%9C%BC%E3%82%92%E9%96%8B%E3%81%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=E23B3B&center=true&vCenter=true&width=760&lines=Go+%E2%80%A2+Kubernetes+%E2%80%A2+Observability;Building+terminal-native+tools+for+the+cloud;Silent+code.+Sharp+mind.+Red+eyes." alt="Typing SVG" />
 </a>
 
 <p>
@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=LinPr&style=for-the-badge&color=E23B3B&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<sub><i>「静かに、しかし確実に。」 — Quietly, but surely.</i></sub>
+<sub><i>Quietly, but surely.</i></sub>
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 <p>I'm <b>Lin</b> — a Go developer who builds <b>terminal-native tools for the cloud</b>. My happy place is somewhere between a Bubble Tea TUI, an S3 bucket, and a Grafana dashboard.</p>
 
@@ -39,7 +39,7 @@
 </ul>
 
 </td>
-<td width="40%" valign="top">
+<td width="38%" valign="top">
 <img src="assets/itachi-profile.webp" width="100%" alt="Itachi Uchiha at night" />
 </td>
 </tr>
@@ -59,7 +59,7 @@
 **Daily Drivers**<br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## <img src="assets/sharingan.svg" width="24" alt="" /> Featured Work · 忍具
+## <img src="assets/sharingan.svg" width="24" alt="" /> Featured Work
 
 <sub>Terminal-first tools for databases, object storage, and observability.</sub>
 
@@ -88,23 +88,28 @@
 
 <sub>Refreshed weekly by <a href="https://github.com/LinPr/LinPr/blob/main/.github/workflows/refresh-cards.yml">this workflow</a>.</sub>
 
-<br/><br/>
-
-<img src="assets/itachi-sharingan.webp" width="520" alt="Itachi's Sharingan" />
-
 </div>
 
-> 「自分を許せる者、そして本当の自分を受け入れられる者……それが強い者だ。」
->
-> **“Those who forgive themselves, and are able to accept their true nature — they are the strong ones.”**
->
-> — うちはイタチ · Itachi Uchiha
+<table>
+<tr>
+<td width="52%" valign="middle">
+
+<p><b>"Those who forgive themselves, and are able to accept their true nature — they are the strong ones."</b></p>
+
+<p><sub>— Itachi Uchiha</sub></p>
+
+</td>
+<td width="48%" valign="middle">
+<img src="assets/itachi-sharingan.webp" width="100%" alt="Itachi's Sharingan" />
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### またな。 <sub>See you in the shadows.</sub>
+### See you in the shadows.
 
 <a href="https://github.com/LinPr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20all-E23B3B?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repositories" /></a>
 <a href="https://github.com/LinPr/LinPr/issues"><img src="https://img.shields.io/badge/Say%20hi-Open%20an%20issue-E23B3B?style=for-the-badge&logo=github&labelColor=0D1117" alt="Open an issue" /></a>
