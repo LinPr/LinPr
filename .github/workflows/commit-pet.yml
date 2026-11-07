@@ -1,0 +1,26 @@
+name: Commit Pet
+
+on:
+  schedule:
+    - cron: "0 21 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  models: read
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Render pet and open update PR
+        uses: yukurash/commit-pet@v1
+        with:
+          species: ghost
+          name: Crow
+          output: assets/commit-pet.svg
+          theme: en
