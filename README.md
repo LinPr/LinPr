@@ -94,6 +94,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="assets/commit-pet.svg" width="480" alt="Crow, my commit pet" />
+
+</div>
+
 ---
 
 <div align="center">
